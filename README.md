@@ -1,2 +1,4 @@
 This is the readme file for the tutorial
-repository.”
+repository.
+
+And here is the first modification.
