@@ -5,4 +5,4 @@ And here is the first modification.
 
 Another modification.
 
-Change added in main branch.
+Change made in dazzling_feature to provoke conflict
