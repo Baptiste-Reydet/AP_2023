@@ -7,4 +7,4 @@ Another modification.
 
 Change made in dazzling_feature to provoke conflict
 
-Here is a conflict with the stash
+Some changes to test stash
