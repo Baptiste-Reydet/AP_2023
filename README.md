@@ -8,3 +8,5 @@ Another modification.
 Change made in dazzling_feature to provoke conflict
 
 Some changes to test stash
+
+Change made as Collaborator.
